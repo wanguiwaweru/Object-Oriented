@@ -6,4 +6,4 @@ A step-by-step guide on the approach used to design the call center can be found
 
 2. Design an underground system
 
-A step-by-step guide on the approach used to design the undergroubd can be found [here](https://dev.to/wanguiwaweru/design-underground-system-4e51).
+A step-by-step guide on the approach used to design the underground can be found [here](https://dev.to/wanguiwaweru/design-underground-system-4e51).

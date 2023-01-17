@@ -1,5 +1,7 @@
-## Object-Oriented OOP
-This are solutions to object oriented design questions
+## Object Oriented Programming
+
+These are solutions to object oriented design questions.
+
 1. Design a call center.
 
 A step-by-step guide on the approach used to design the call center can be found [here](https://dev.to/wanguiwaweru/design-a-call-center-4dil).
